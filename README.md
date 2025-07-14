@@ -1,8 +1,10 @@
+**Note:** The Snowflake connection is currently not working and is being transitioned. 
+
+
 # RealtyLens
 
 ![RealtyLens](./images/realtylens.png)
 
-**Note:** The Snowflake connection is currently not working and is being transitioned. This may affect some data processing and analytics features.
 
 RealtyLens is an application that provides analytic lens for daily rent and sale listings. This is my capstone submission for Zach Wilson's DataExpert Data Engineering bootcamp.
 
